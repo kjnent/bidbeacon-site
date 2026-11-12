@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://bidbeaconalerts.com/</loc></url>
   <url><loc>https://bidbeaconalerts.com/bids/</loc><lastmod>2026-11-12</lastmod></url>
+  <url><loc>https://bidbeaconalerts.com/bids/alaska/</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://bidbeaconalerts.com/bids/colorado/</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://bidbeaconalerts.com/bids/missouri/</loc><lastmod>2026-11-12</lastmod></url>
+  <url><loc>https://bidbeaconalerts.com/bids/south-dakota/</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://bidbeaconalerts.com/bids/utah/</loc><lastmod>2026-11-12</lastmod></url>
+  <url><loc>https://bidbeaconalerts.com/bids/virginia/</loc><lastmod>2026-11-12</lastmod></url>
 </urlset>
